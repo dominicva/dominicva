@@ -1,12 +1,13 @@
 # dominicva
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<div style="display: grid; gap: 16px; grid-template-columns: 0.75fr auto">
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+[![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicva&theme=nightowl&hide=prs,stars,issues,contribs&show_icons=true&langs_count=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicva)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+<div style="display: flex; flex-wrap: wrap;">
 
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
@@ -53,3 +54,12 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+
+</div>
